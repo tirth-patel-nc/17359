@@ -10,7 +10,7 @@ workflows:
         distribution_type: app_store
         bundle_identifier: com.app.17359
       vars:
-        APP_STORE_APPLE_ID: 6759789849
+        APP_STORE_APPLE_ID: 6760691121
       flutter: stable
     scripts:
       - name: Set up code signing settings on Xcode project
